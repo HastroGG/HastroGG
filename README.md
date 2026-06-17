@@ -1,6 +1,6 @@
 ## Assalamualaikum ✋
 
-# Hi there, I'm Hastro (HastroGG) 👋
+# Hi there, I'm Hastro ✋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Computer+Engineering+Student;Software+Developer;AI+Integration+Enthusiast" alt="Typing SVG" />
@@ -15,6 +15,9 @@ I am a **Computer Engineering Student** dedicated to software development, syste
 - 🎓 Studying **Computer Engineering** at Süleyman Demirel University (SDÜ).
 - 🛠️ Currently focusing on **AI Applications, Desktop & Financial Systems, and Database Management**.
 - ⚡ I prefer optimizing everything—from my development workflow (keyboard shortcuts > mouse) to application performance.
+
+<p align="right"><i>"وَاَنْ لَيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰىۙ"</i></p>
+<p align="right"><i>"And that man hath only that for which be maketh effort,[53:39]"</i></p>
 
 ---
 
@@ -64,5 +67,4 @@ I am a **Computer Engineering Student** dedicated to software development, syste
 
 - ✉️ **Email:** [harunergene1@gmail.com](mailto:harunergene1@gmail.com)
 
-<p align="right"><i>"وَاَنْ لَيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰىۙ"</i></p>
-<p align="right"><i>"And that man hath only that for which be maketh effort,[53:39]"</i></p>
+
